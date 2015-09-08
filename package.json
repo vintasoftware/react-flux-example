@@ -1,0 +1,23 @@
+{
+  "name": "react-flux-example",
+  "version": "0.0.1",
+  "main": "app.jsx",
+  "dependencies": {
+    "react": "^0.13.3",
+    "alt": "^0.17.1"
+  },
+  "devDependencies": {
+    "browserify": "^11.0.1",
+    "watchify": "^3.3.1",
+    "babelify": "^6.2.0",
+    "gulp": "^3.9.0",
+    "vinyl-source-stream": "^1.1.0",
+    "vinyl-buffer": "^1.0.0",
+    "gulp-util": "^3.0.6",
+    "gulp-sourcemaps": "^1.5.2",
+    "lodash.assign": "^3.2.0",
+    "gulp-uglify": "^1.4.0",
+    "browser-sync": "^2.8.2"
+  },
+  "author": "Flávio Juvenal <flavio@vinta.com.br>"
+}
